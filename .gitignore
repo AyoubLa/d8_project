@@ -18,6 +18,7 @@
 /vendor/
 /themes/contrib/*
 /modules/contrib/*
+
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
 sites/*/services*.yml
@@ -41,3 +42,6 @@ sites/simpletest
 
 # Ignore SimpleTest multi-site environment.
 # simpletest
+
+# idea #
+/.idea/*

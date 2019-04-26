@@ -1,0 +1,6 @@
+name: Loox Community theme
+description: Template of Loox
+type: theme
+base theme: bartik
+core: 8.x
+package: custom

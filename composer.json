@@ -5,7 +5,18 @@
     "license": "GPL-2.0-or-later",
     "require": {
         "composer/installers": "^1.0.24",
-        "wikimedia/composer-merge-plugin": "^1.4"
+        "wikimedia/composer-merge-plugin": "^1.4",
+        "drush/drush": "^9.6",
+        "drupal/addtoany": "^1.12",
+        "drupal/adminimal_admin_toolbar": "^1.9",
+        "drupal/better_exposed_filters": "^3.0@alpha",
+        "drupal/field_group": "^1.0",
+        "drupal/image_widget_crop": "^2.2",
+        "drupal/inline_responsive_images": "^2.1",
+        "drupal/paragraphs": "^1.8",
+        "drupal/devel": "^2.0",
+        "drupal/easy_breadcrumb": "^1.8",
+        "drupal/pathauto": "^1.4"
     },
     "replace": {
         "drupal/core": "^8.6"
